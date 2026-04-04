@@ -3,8 +3,9 @@
 Camino Anywhere does not use accounts, analytics, advertising, or tracking.
 
 ## Data the app uses
-- **Motion & Fitness**: Used to estimate walked distance for your Camino progress.
-- **Progress data**: Stored on your device and may sync via **iCloud** if enabled.
+• Motion & Fitness: Used to estimate walked distance for your Camino progress.  
+• Health data from the Apple Health app: If you grant permission, the app reads your walking and running distance to update your Camino progress.  
+• Progress data: Stored on your device and may sync via iCloud if enabled.
 
 ## Data we collect
 We do **not** collect personal data on our own servers. We do not run our own backend.
